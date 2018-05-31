@@ -4,7 +4,7 @@ Cache Optimization
 Students/GitHub Information:
 
 Kevin Kong  	  CPE 315-07
-https://github.com/Iakhom/Lab5-315
+https://github.com/kevkong17/Lab5-315
 
 Alexandria Quelle CPE 315-09
 https://github.com/aquelle-cp/cpe315/tree/master/lab5
